@@ -1,6 +1,6 @@
 # 371Assignment2
-CSCI 371 Web Scripting Languages: Assignment 2: PIN webpage validation
-Project 2
+CSCI 371 Web Scripting Languages: Assignment 2: PIN webpage validation.
+Project 2:
 The National Commerce Bank has hired you to create Web application that verifies a customer personal identification number (PIN). A valid PIN is a seven-digit number that meets the following specifications:
 •	Digit 1: Must be in the range of 7 through 9
 •	Digit 2: Must be in the range of 5 through 7
